@@ -12,7 +12,7 @@
 		"@lucia-auth/adapter-prisma": "workspace:*",
 		"@lucia-auth/oauth": "workspace:*",
 		"@prisma/client": "^4.7.0",
-		"@types/node": "18.11.9",
+		"@types/node": "18.15.11",
 		"@types/react": "18.0.24",
 		"@types/react-dom": "18.0.8",
 		"encoding": "^0.1.13",
