@@ -15,7 +15,7 @@
 		"@lucia-auth/adapter-prisma": "workspace:*",
 		"@lucia-auth/oauth": "workspace:*",
 		"@prisma/client": "^4.7.0",
-		"astro": "^2.0.0",
+		"astro": "^4.16.18",
 		"lucia-auth": "workspace:*",
 		"svelte": "^3.46.4",
 		"tailwindcss": "^3.0.24"
