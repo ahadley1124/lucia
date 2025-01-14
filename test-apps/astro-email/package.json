@@ -15,7 +15,7 @@
 		"@lucia-auth/adapter-prisma": "workspace:*",
 		"@lucia-auth/tokens": "workspace:*",
 		"@prisma/client": "^4.12.0",
-		"astro": "^2.1.3",
+		"astro": "^4.16.18",
 		"lucia-auth": "workspace:*",
 		"tailwindcss": "^3.0.24"
 	},
