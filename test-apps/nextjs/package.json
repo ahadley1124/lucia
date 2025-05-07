@@ -13,7 +13,7 @@
 		"@lucia-auth/oauth": "workspace:*",
 		"@prisma/client": "^4.7.0",
 		"@types/node": "18.11.9",
-		"@types/react": "18.0.24",
+		"@types/react": "18.0.34",
 		"@types/react-dom": "18.0.8",
 		"encoding": "^0.1.13",
 		"eslint": "8.26.0",
